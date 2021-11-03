@@ -24,6 +24,3 @@ function insertando6p() {
     }
 
 }
-
-
-/* ITERACIÓN 4 */
